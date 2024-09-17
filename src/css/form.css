@@ -1,3 +1,15 @@
 .feedback-form {
-  display: block;
+  display: table-caption;
+}
+.email {
+  margin-bottom: 8px;
+}
+.message {
+  margin-bottom: 16px;
+}
+button {
+  padding: 8px 16px;
+  color: #fff;
+  background-color: #4E75FF;
+  border-radius: 8px;
 }
