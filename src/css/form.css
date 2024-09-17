@@ -7,10 +7,16 @@
 .message {
   margin-bottom: 16px;
 }
+textarea {
+  resize: none;
+}
 button {
   padding: 8px 16px;
   color: #fff;
   background-color: #4E75FF;
   border-radius: 8px;
   border: none;
+}
+button:hover {
+  background-color: #6C8CFF;
 }
